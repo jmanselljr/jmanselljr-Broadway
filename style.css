@@ -1,1 +1,17 @@
-Hello World
+h4 {
+  font-family: Helvetica;
+  font-size: 14px
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
